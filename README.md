@@ -1,6 +1,6 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
-## Authors - [Tochukwu Odeme](https://github.com/teek-tech) and [Ifunanya Odoh](https://github.com/#)
+## Authors - [Tochukwu Odeme](https://github.com/teek-tech) and [Ifunanya Odoh](https://github.com/Fumnanya77)
 
 ## The Monty language
 
